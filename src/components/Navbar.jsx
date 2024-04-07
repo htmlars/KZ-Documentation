@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { GlobeAltIcon, ArrowUpRightIcon, LockClosedIcon, Bars3Icon, XMarkIcon, } from '@heroicons/react/24/outline'
+import { GlobeAltIcon, ArrowUpRightIcon, LockClosedIcon, Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import Toggle from './Toggle';
 
 const menuItem = (title, subItems = []) => (
